@@ -5,7 +5,7 @@
 ![todo_list]()
 
 #### 📝 Description
-Todo list built using vanilla JavaScript from The Odin Project curriculum.
+Todo list built using vanilla JavaScript from The Octanet Services
 
 #### 💡 Features
 * Changes are saved to localStorage
@@ -17,5 +17,5 @@ Todo list built using vanilla JavaScript from The Odin Project curriculum.
  * HTML
  * CSS
  * JavaScript
- * Webpack
+
  
