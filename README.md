@@ -1,11 +1,12 @@
 # Todo-List-using-HTML-CSS-and-Javascript
-  assigning priorities, deadlines and tasks to the each particular tasks
+ 
 ### [Live Demo]()
 
 ![todo_list]()
 
 #### 📝 Description
-Todo list built using vanilla JavaScript from The Octanet Services
+Todo list built using HTML CSS and JavaScript in which assigning priorities, deadlines 
+and can add number of tasks at the same time
 
 #### 💡 Features
 * Changes are saved to localStorage
